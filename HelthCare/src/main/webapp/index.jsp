@@ -94,7 +94,9 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             
-            <a class="collapse-item" href="appointments.jsp">Appointments</a>
+            <a class="collapse-item" href="appointments.jsp">Add Appointments</a>
+            <a class="collapse-item" href="appointments.jsp">Appointments List</a>
+            <a class="collapse-item" href="appointments.jsp">Assigned by Doctor</a>
             
           </div>
         </div>
